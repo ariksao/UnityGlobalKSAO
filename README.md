@@ -1,2 +1,4 @@
 # UnityGlobalA
- For Education
+ For Educational purposes only.
+ KSAO A.H.
+ Finland
