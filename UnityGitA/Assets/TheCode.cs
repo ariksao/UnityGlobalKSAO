@@ -9,7 +9,7 @@ public class TheCode : MonoBehaviour
     {
         Debug.Log("Testing Git!");
 		Debug.Log("This line was added with Notepad++");
-        Debug.Log("This line was added with Visaual Studio 2019");
+        Debug.Log("This line was added with Visual Studio 2019"); //Typo fixed
     }
 
     // Update is called once per frame
