@@ -1,2 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+
+Private Sub CommandButton1_Click()
+    FileToPlay = """C:\Documents and Settings\RuRichter\Desktop\rainreport.mp3"""
+    Shell "C:\Program Files\Windows Media Player\wmplayer /play /close " & FileToPlay
+End Sub
+
+
