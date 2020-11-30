@@ -20,7 +20,11 @@ MonoBehaviour:
     height: 766.4
   m_ShowMode: 4
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Title: Project
+=======
+  m_Title: Game
+>>>>>>> parent of 1f10093... Edited witn UnityPro
 =======
   m_Title: Game
 >>>>>>> parent of 1f10093... Edited witn UnityPro
@@ -48,12 +52,21 @@ MonoBehaviour:
     x: 0
     y: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 2560
     height: 1307
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
   controlID: 105
+=======
+    width: 1522
+    height: 716
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
+  vertical: 0
+  controlID: 62
+>>>>>>> parent of 1f10093... Edited witn UnityPro
 =======
     width: 1522
     height: 716
@@ -78,6 +91,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1953
     y: 0
     width: 607
@@ -87,10 +101,17 @@ MonoBehaviour:
 =======
     x: 1161
     y: 0
+=======
+    x: 1161
+    y: 0
+>>>>>>> parent of 1f10093... Edited witn UnityPro
     width: 361
     height: 716
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
+<<<<<<< HEAD
+>>>>>>> parent of 1f10093... Edited witn UnityPro
+=======
 >>>>>>> parent of 1f10093... Edited witn UnityPro
   m_ActualView: {fileID: 13}
   m_Panes:
@@ -115,8 +136,13 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 481
     height: 773
+=======
+    width: 286
+    height: 423
+>>>>>>> parent of 1f10093... Edited witn UnityPro
 =======
     width: 286
     height: 423
@@ -145,9 +171,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 773
     width: 1953
     height: 534
+=======
+    y: 423
+    width: 1161
+    height: 293
+>>>>>>> parent of 1f10093... Edited witn UnityPro
 =======
     y: 423
     width: 1161
@@ -182,8 +214,13 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 2560
     height: 1357
+=======
+    width: 1522
+    height: 766
+>>>>>>> parent of 1f10093... Edited witn UnityPro
 =======
     width: 1522
     height: 766
@@ -236,8 +273,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 1337
     width: 2560
+=======
+    y: 746
+    width: 1522
+>>>>>>> parent of 1f10093... Edited witn UnityPro
 =======
     y: 746
     width: 1522
@@ -265,12 +307,21 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1953
     height: 1307
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
   controlID: 106
+=======
+    width: 1161
+    height: 716
+  m_MinSize: {x: 403, y: 492}
+  m_MaxSize: {x: 10001, y: 14042}
+  vertical: 1
+  controlID: 15
+>>>>>>> parent of 1f10093... Edited witn UnityPro
 =======
     width: 1161
     height: 716
@@ -299,12 +350,21 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1953
     height: 773
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
   controlID: 107
+=======
+    width: 1161
+    height: 423
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
+  vertical: 0
+  controlID: 16
+>>>>>>> parent of 1f10093... Edited witn UnityPro
 =======
     width: 1161
     height: 423
@@ -329,10 +389,17 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 481
     y: 0
     width: 1472
     height: 773
+=======
+    x: 286
+    y: 0
+    width: 875
+    height: 423
+>>>>>>> parent of 1f10093... Edited witn UnityPro
 =======
     x: 286
     y: 0
@@ -368,15 +435,21 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 846
     width: 1952
     height: 513
 =======
+=======
+>>>>>>> parent of 1f10093... Edited witn UnityPro
     x: 7.2000003
     y: 503.2
     width: 1160
     height: 272
+<<<<<<< HEAD
+>>>>>>> parent of 1f10093... Edited witn UnityPro
+=======
 >>>>>>> parent of 1f10093... Edited witn UnityPro
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
@@ -393,7 +466,11 @@ MonoBehaviour:
     m_SearchArea: 1
     m_Folders:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets/Info_pictures
+=======
+    - Assets/Materials
+>>>>>>> parent of 1f10093... Edited witn UnityPro
 =======
     - Assets/Materials
 >>>>>>> parent of 1f10093... Edited witn UnityPro
@@ -402,7 +479,11 @@ MonoBehaviour:
   m_StartGridSize: 64
   m_LastFolders:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - Assets/Info_pictures
+=======
+  - Assets/Materials
+>>>>>>> parent of 1f10093... Edited witn UnityPro
 =======
   - Assets/Materials
 >>>>>>> parent of 1f10093... Edited witn UnityPro
@@ -413,9 +494,15 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: 68370000
     m_LastClickedID: 14184
     m_ExpandedIDs: 000000006237000000ca9a3b
+=======
+    m_SelectedIDs: 90370000
+    m_LastClickedID: 14224
+    m_ExpandedIDs: 000000008437000000ca9a3b
+>>>>>>> parent of 1f10093... Edited witn UnityPro
 =======
     m_SelectedIDs: 90370000
     m_LastClickedID: 14224
@@ -449,7 +536,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000062370000
+=======
+    m_ExpandedIDs: 0000000084370000
+>>>>>>> parent of 1f10093... Edited witn UnityPro
 =======
     m_ExpandedIDs: 0000000084370000
 >>>>>>> parent of 1f10093... Edited witn UnityPro
@@ -529,15 +620,21 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1953.3334
     y: 72.66667
     width: 606
     height: 1286
 =======
+=======
+>>>>>>> parent of 1f10093... Edited witn UnityPro
     x: 1168
     y: 80.8
     width: 359
     height: 695
+<<<<<<< HEAD
+>>>>>>> parent of 1f10093... Edited witn UnityPro
+=======
 >>>>>>> parent of 1f10093... Edited witn UnityPro
   m_ViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
@@ -574,24 +671,36 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 72.66667
     width: 480
     height: 752
 =======
+=======
+>>>>>>> parent of 1f10093... Edited witn UnityPro
     x: 7.2000003
     y: 80.8
     width: 285
     height: 402
+<<<<<<< HEAD
+>>>>>>> parent of 1f10093... Edited witn UnityPro
+=======
 >>>>>>> parent of 1f10093... Edited witn UnityPro
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: 60fbffff
+=======
+      m_SelectedIDs: 16eeffff
+      m_LastClickedID: 0
+      m_ExpandedIDs: 28faffff
+>>>>>>> parent of 1f10093... Edited witn UnityPro
 =======
       m_SelectedIDs: 16eeffff
       m_LastClickedID: 0
@@ -757,15 +866,21 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 481.33334
     y: 72.66667
     width: 1470
     height: 752
 =======
+=======
+>>>>>>> parent of 1f10093... Edited witn UnityPro
     x: 293.6
     y: 80.8
     width: 873
     height: 402
+<<<<<<< HEAD
+>>>>>>> parent of 1f10093... Edited witn UnityPro
+=======
 >>>>>>> parent of 1f10093... Edited witn UnityPro
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewNames: []
@@ -775,7 +890,11 @@ MonoBehaviour:
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_TargetSize: {x: 1470, y: 731}
+=======
+  m_TargetSize: {x: 873, y: 381}
+>>>>>>> parent of 1f10093... Edited witn UnityPro
 =======
   m_TargetSize: {x: 873, y: 381}
 >>>>>>> parent of 1f10093... Edited witn UnityPro
@@ -794,15 +913,21 @@ MonoBehaviour:
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -490
     m_HBaseRangeMax: 490
     m_VBaseRangeMin: -243.66667
     m_VBaseRangeMax: 243.66667
 =======
+=======
+>>>>>>> parent of 1f10093... Edited witn UnityPro
     m_HBaseRangeMin: -349.2
     m_HBaseRangeMax: 349.2
     m_VBaseRangeMin: -152.40001
     m_VBaseRangeMax: 152.40001
+<<<<<<< HEAD
+>>>>>>> parent of 1f10093... Edited witn UnityPro
+=======
 >>>>>>> parent of 1f10093... Edited witn UnityPro
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
@@ -822,15 +947,21 @@ MonoBehaviour:
       x: 0
       y: 21
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 1470
       height: 731
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 735, y: 365.5}
 =======
+=======
+>>>>>>> parent of 1f10093... Edited witn UnityPro
       width: 873
       height: 381
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 436.5, y: 190.5}
+<<<<<<< HEAD
+>>>>>>> parent of 1f10093... Edited witn UnityPro
+=======
 >>>>>>> parent of 1f10093... Edited witn UnityPro
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -838,6 +969,7 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
       x: -735
       y: -365.5
@@ -847,6 +979,8 @@ MonoBehaviour:
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 2205, y: 1128}
 =======
+=======
+>>>>>>> parent of 1f10093... Edited witn UnityPro
       x: -436.5
       y: -190.5
       width: 873
@@ -854,6 +988,9 @@ MonoBehaviour:
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1091.25, y: 502.5}
+<<<<<<< HEAD
+>>>>>>> parent of 1f10093... Edited witn UnityPro
+=======
 >>>>>>> parent of 1f10093... Edited witn UnityPro
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
