@@ -6,7 +6,7 @@ public class TheCode : MonoBehaviour
 {
     // Start is called before the first frame update
     public GameObject kikkare;
-    public float kikkare_speed;
+    public float kikkare_speed = 85;
     void Start()
     {
         Debug.Log("Testing Git!");
