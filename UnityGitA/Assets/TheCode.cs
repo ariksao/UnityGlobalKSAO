@@ -15,6 +15,7 @@ public class TheCode : MonoBehaviour
         Debug.Log("This line was added with Microsoft Notepad from another computer");
         Debug.Log("Testing New Visual Studio from remote PC");
         Debug.Log("This line was added from 3th workstation with Visual Studio");
+        Debug.Log("Unity version 2020.1.16f1");
     }
 
     // Update is called once per frame
