@@ -23,5 +23,24 @@ public class TheCode : MonoBehaviour
     {
         // Rotates gameobject by its X -axis
         kikkare.transform.Rotate(0, kikkare_speed * Time.deltaTime, 0);
+
+        if (Input.GetKeyDown(KeyCode.A))
+        {
+            Debug.Log("A key pressed");
+            kikkare_speed = kikkare_speed - kikkare_speed * 2;
+        }
+        else if (Input.GetKeyDown(KeyCode.B))
+        {
+            Debug.Log("B key pressed");
+            kikkare_speed = kikkare_speed + kikkare_speed * 2;
+        }
+
+        if (Input.GetKeyDown(KeyCode.C))
+            
+        {
+            Debug.Log("C key pressed");
+            kikkare_speed = 10;
+        }
+        ;
     }
-}
+}   
