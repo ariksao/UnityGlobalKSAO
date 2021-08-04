@@ -15,7 +15,8 @@ public class TheCode : MonoBehaviour
         Debug.Log("This line was added with Microsoft Notepad from another computer");
         Debug.Log("Testing New Visual Studio from remote PC");
         Debug.Log("This line was added from 3th workstation with Visual Studio");
-        Debug.Log("Unity version 2020.1.16f1");
+        // Debug.Log("Unity version 2020.1.16f1");
+        Debug.Log("Unity version 2020.3.15f2 Personal");
     }
 
     // Update is called once per frame
@@ -39,12 +40,11 @@ public class TheCode : MonoBehaviour
 
         {
             Debug.Log("(*C*) key pressed");
-            kikkare_speed = 30; // hmmmrp...
+            kikkare_speed = 15;
         }
         ;
 
-        // 4.8.21 add..
-        // Unity autorefresh
-        // disabled by default
+      // It worked..
+
     }
 }
