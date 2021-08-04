@@ -1,8 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class TheCode : MonoBehaviour
+
 {
     // Start is called before the first frame update
     public GameObject kikkare;
@@ -18,6 +20,16 @@ public class TheCode : MonoBehaviour
         // Debug.Log("Unity version 2020.1.16f1");
         Debug.Log("Unity version 2020.3.15f2 Personal");
     }
+
+
+    int n;
+    public void OnButtonPress()
+    {
+        n++;
+        Debug.Log("Button clicked " + n + " times.");
+
+    }
+
 
     // Update is called once per frame
     void Update()
