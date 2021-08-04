@@ -36,13 +36,15 @@ public class TheCode : MonoBehaviour
         }
 
         if (Input.GetKeyDown(KeyCode.C))
-            
+
         {
-            Debug.Log("(C) key pressed");
-            kikkare_speed = 10;
+            Debug.Log("(*C*) key pressed");
+            kikkare_speed = 30; // hmmmrp...
         }
         ;
 
         // 4.8.21 add..
+        // Unity autorefresh
+        // was disabled by default
     }
-}   
+}
