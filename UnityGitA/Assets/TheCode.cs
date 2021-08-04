@@ -45,6 +45,6 @@ public class TheCode : MonoBehaviour
 
         // 4.8.21 add..
         // Unity autorefresh
-        // was disabled by default
+        // disabled by default
     }
 }
