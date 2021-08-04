@@ -38,9 +38,11 @@ public class TheCode : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.C))
             
         {
-            Debug.Log("C key pressed");
+            Debug.Log("(C) key pressed");
             kikkare_speed = 10;
         }
         ;
+
+        // 4.8.21 add..
     }
 }   
