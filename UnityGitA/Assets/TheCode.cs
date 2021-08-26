@@ -21,16 +21,6 @@ public class TheCode : MonoBehaviour
         Debug.Log("Unity version 2020.3.15f2 Personal");
     }
 
-
-    int n;
-    public void OnButtonPress()
-    {
-        n++;
-        Debug.Log("Button clicked " + n + " times.");
-
-    }
-
-
     // Update is called once per frame
     void Update()
     {
