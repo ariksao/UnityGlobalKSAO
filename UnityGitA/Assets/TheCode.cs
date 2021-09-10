@@ -9,6 +9,7 @@ public class TheCode : MonoBehaviour
     // Start is called before the first frame update
     public GameObject kikkare;
     public float kikkare_speed;
+    public Animation animate;
     void Start()
     {
         Debug.Log("Testing Git!");
@@ -44,9 +45,15 @@ public class TheCode : MonoBehaviour
             Debug.Log("(*C*) key pressed");
             kikkare_speed = 15;
         }
-        ;
 
-      // It worked..
+        if (Input.GetKeyDown(KeyCode.P))
+
+        {
+            Debug.Log("(*P*) key pressed");
+            kikkare_speed = 15;
+        }
+
+        // It worked..
 
     }
 }
